@@ -1,0 +1,7 @@
+{
+  "name": "eventt",
+  "version": "1.0.0",
+  "main": "src/eventt.js",
+  "author": "zoldi",
+  "license": "MIT"
+}
